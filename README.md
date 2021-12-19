@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/the_eshwar_kanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the_eshwar_kanna" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/the-eshwar-kanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the_eshwar_kanna" height="30" width="40" /></a>
 <a href="https://fb.com/eshwar kanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eshwar kanna" height="30" width="40" /></a>
 <a href="https://instagram.com/eshwar_echo_war" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshwar_echo_war" height="30" width="40" /></a>
 </p>
